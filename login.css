@@ -5,14 +5,12 @@
     font-family:sans-serif,'Times New Roman', Times, serif;
 }
 body{
-    
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     background-color:black;
-    background-image: url(pexels-elijah-o\'donnell-3473569.jpg);
-
+    background-image: url(spider-man-image.jpg);
     background-size: cover;
     background-position: center;
 }

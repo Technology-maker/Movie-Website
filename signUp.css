@@ -3,10 +3,10 @@
     margin: 0;
     font-family: sans-serif,Arial, Helvetica;
     box-sizing: border-box;
-}
+} 
 body{
 
-    background-image: url('assets/wp5556224.jpg');
+    background-image: url('all-marvel-image.jpg');
     background-size: cover;
     
     display: flex;
