@@ -1,0 +1,239 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif,Arial, Helvetica;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 100vw;
+    align-items: center;
+    background-color: black;
+}
+.logo{
+    height: 70px;
+    width: 200px;
+    background-image: url(assets/logo-design-for-movie.jpg);
+    background-size:cover;
+    background-position: center;
+
+
+}
+.nav-logo{
+    align-items: center;
+    color: red;
+}
+
+
+.option{
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    height: 68px;
+    width: 200px;
+    
+}
+.inner-option{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 68px;
+    width: 500px;
+    
+}
+.search-option{
+    border-radius: 6px;
+    height: 33px;
+    width: 250px;
+}
+.button{
+   align-items: center;
+    border-radius: 5px;
+    height: 33px;
+    width: 50px;
+    background-color: white;
+    color: blueviolet;
+}
+.bx{
+    
+
+    color: aliceblue;
+    height: 20px;
+    width: 20px;
+
+}
+.bx-search{
+    color: black;
+}
+.bx-search{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: black;
+
+}
+.inner-option:hover{
+    text-decoration: underline aliceblue;
+}
+
+.image-div1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.first-inner-div{
+    background-color: aqua;
+    height: 270px;
+    width: 250px;
+}
+.img1{
+    background-image: url(assets/coming1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img2{
+    background-image: url(assets/coming2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img3{
+    background-image: url(assets/coming3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img4{
+    background-image: url(assets/coming4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img5{
+    background-image: url(assets/coming5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img6{
+    background-image: url(assets/coming6.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img7{
+    background-image: url(assets/coming7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img8{
+    background-image: url(assets/coming8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img9{
+    background-image: url(assets/coming9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img10{
+    background-image: url(assets/coming10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img11{
+    background-image: url(assets/m1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img12{
+    background-image: url(assets/m2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img13{
+    background-image: url(assets/m3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img14{
+    background-image: url(assets/m4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img15{
+    background-image: url(assets/m5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img16{
+    background-image: url(assets/m6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.space{
+    background-color: red;
+    height: 30px;
+    width: 100%;
+}
+.div-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#2C302E;
+    height: 270px;
+    width: 100%;
+}
+
+.div-foot-one{
+    padding:10px;
+    height: 230px;
+    width: 230px;
+    background-color: #2C302E;
+}
+
+.para-foot{
+    line-height: 27px;
+    color: aliceblue;
+}
+.div-last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 100%;
+    background-color: #474A48;
+
+}
+.div-last p{
+    color: #9AE19D;
+}
+
+
+
