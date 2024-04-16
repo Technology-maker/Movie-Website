@@ -6,7 +6,7 @@
 }
 body{
 
-    background-image: url(m6.jpg);
+    background-image: url(ai\ image.webp);
     background-size: cover;
     
     display: flex;
@@ -85,10 +85,3 @@ body{
     font-weight:600;
 }
 
-.regirstation-page .btn{
-    text-decoration: none;
-}
-.btn a :hover{
-    text-decoration: underline;
-    color: #333;
-}
